@@ -3,6 +3,7 @@
 ## 关于 GMCert
 
 
+![GMCert](https://github.com/sendwave/test1/raw/master/gmcert_640.jpg?raw=true "GMCert")
 
 ![GMCert](https://github.com/gmcert/GMCert/raw/master/gmcert_640.jpg?raw=true "GMCert")
 
