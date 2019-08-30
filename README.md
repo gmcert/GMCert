@@ -2,7 +2,7 @@
 
 ## 关于 GMCert
 
-![GMCert](https://www.gmcert.org/image/gmcert_640.png "GMCert")
+![GMCert](https://raw.githubusercontent.com/gmcert/GMCert/master/image/gmcert_640.jpg "GMCert")
 
 GMCert 是一个免费开源的SM2国密（以及RSA、ECC等）证书签发系统。您可以使用GMCert申请获得各种参数和格式的证书文件，并将该证书用于开发、测试、部署……等一切用途，没有任何限制。
 
