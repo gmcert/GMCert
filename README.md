@@ -62,7 +62,7 @@ GMCert is a website for providing free signing GM/RSA/ECC certificates and relev
 
 ![GMCert](https://github.com/sendwave/test1/blob/master/gmcert_128B.jpg?raw=true "GMCert")
 
-Official website: [www.gmcert.org](https://www.gmcert.org)
+Website: [www.gmcert.org](https://www.gmcert.org)
 
 E-mail: [admin@gmcert.org](mailto:admin@gmcert.org)
 
