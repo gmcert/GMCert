@@ -8,6 +8,7 @@ GMCert 是一个免费开源的SM2国密（以及RSA、ECC等）证书签发系�
 
 在此之前，从事密码领域或其他信息安全行业的工作人员，想要签发一套指定密钥和参数的证书，需要自行搭建开源SSL或CA，研究学习签发命令或代码，自行生成根CA证书…… 将会遇到很多挑战且投入大量精力。有了GMCert，您需要做的只是点几下鼠标。
  
+本工程基于django和vue.js框架.
 
 ## 关键服务功能
 
@@ -53,6 +54,8 @@ GMCert 提供多种证书服务内容和灵活参数设置：
 
 
 GMCert is a open source system for providing free signing GM/RSA/ECC certificates. You can use this project to specify flexible parameters and generate multiple formats of certificates. 
+
+This project based on django and vue.js.
 
 Website: [www.gmcert.org](https://www.gmcert.org)
 E-mail: [admin@gmcert.org](mailto:admin@gmcert.org)
