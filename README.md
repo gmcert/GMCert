@@ -53,7 +53,7 @@ GMCert 提供多种证书服务内容和灵活参数设置：
 #  <a name="english">English README</a>
 
 
-GMCert is a open source system for providing free signing GM/RSA/ECC certificates. You can use this project to specify flexible parameters and generate multiple formats of certificates. 
+GMCert is an open source system for providing free signing GM/RSA/ECC certificates. You can use this project to specify flexible parameters and generate multiple formats of certificates. 
 
 This project based on django and vue.js.
 
