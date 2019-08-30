@@ -2,17 +2,11 @@
 
 ## 关于 GMCert
 
-
-![GMCert](https://github.com/sendwave/test1/raw/master/gmcert_640.jpg?raw=true "GMCert")
-
 ![GMCert](https://github.com/gmcert/GMCert/image/raw/master/gmcert_640.jpg?raw=true "GMCert")
 
-
-GMCert 是一个永久免费提供SM2国密（以及RSA、ECC等）证书签发服务和相关测试工具的网站。您可以在GMCert申请获得各种参数和格式的证书文件，并将该证书用于开发、测试、部署……等一切用途，没有任何限制。
+GMCert 是一个免费开源的SM2国密（以及RSA、ECC等）证书签发系统。您可以使用GMCert申请获得各种参数和格式的证书文件，并将该证书用于开发、测试、部署……等一切用途，没有任何限制。
 
 在此之前，从事密码领域或其他信息安全行业的工作人员，想要签发一套指定密钥和参数的证书，需要自行搭建开源SSL或CA，研究学习签发命令或代码，自行生成根CA证书…… 将会遇到很多挑战且投入大量精力。有了GMCert，您需要做的只是点几下鼠标。
-
-GMCert同时也是一个公益组织，位于中国北京的中关村，致力于为全球的信息安全从业者提供更加便捷的证书签发和密码应用服务，促进国密算法、国密证书、国密规范以及标准PKI技术在IT产业中更好发展。
  
 
 ## 关键服务功能
@@ -58,12 +52,9 @@ GMCert 提供多种证书服务内容和灵活参数设置：
 #  <a name="english">English README</a>
 
 
-GMCert is a website for providing free signing GM/RSA/ECC certificates and relevant tools. You can specify flexible parameters on GMCert and get multiple formats of certificates. You can use these certificates as arbitrary, even for commercial use, no limit.
-
-![GMCert](https://github.com/sendwave/test1/blob/master/gmcert_128B.jpg?raw=true "GMCert")
+GMCert is a open source system for providing free signing GM/RSA/ECC certificates. You can use this project to specify flexible parameters and generate multiple formats of certificates. 
 
 Website: [www.gmcert.org](https://www.gmcert.org)
-
 E-mail: [admin@gmcert.org](mailto:admin@gmcert.org)
 
 
