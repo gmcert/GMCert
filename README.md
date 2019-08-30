@@ -57,7 +57,10 @@ GMCert is an open source system for providing free signing GM/RSA/ECC certificat
 
 This project based on django and vue.js.
 
+![GMCert](https://github.com/gmcert/GMCert/blob/master/image/gmcert_round128.jpg "GMCert")
+
 Website: [www.gmcert.org](https://www.gmcert.org)
+
 E-mail: [admin@gmcert.org](mailto:admin@gmcert.org)
 
 
